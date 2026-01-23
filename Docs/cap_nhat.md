@@ -1,5 +1,19 @@
 # Cập nhật mới của d2ttool
 
+## Phiên bản 1.8.0 (23/01/2026 - Đại tu giao diện Dashboard)
+- **Giao diện Dashboard Pro**: Chuyển đổi từ dạng Tab truyền thống sang thanh điều hướng Sidebar (bên trái) hiện đại, chuyên nghiệp.
+- **Card-Based Layout**: Các khu vực chức năng được gom nhóm trong các "Thẻ" bo góc với viền mờ và đổ bóng nhẹ, giúp bố cục thông thoáng và dễ hiểu.
+- **Hệ màu Tokyo Night**: Áp dụng bộ màu trung tính (Xám xanh đậm) giúp giảm mỏi mắt và tăng tính thẩm mỹ cao cấp.
+- **Thanh trạng thái Footer**: Bổ sung thông tin User, phiên bản và thời hạn sử dụng trực quan ở chân trang.
+- **Tối ưu hóa đa nhiệm**: Hệ thống chuyển trang mượt mà, sẵn sàng tích hợp thêm hàng loạt tính năng mới trong tương lai.
+
+
+## Phiên bản 1.8.0 (Mới nhất)
+*   **Giao diện Hiện đại (Modern UI):** Toàn bộ giao diện đã được chuyển sang thư viện `CustomTkinter` với phong cách Dark Mode sang trọng, bo góc các widget và bố cục thông thoáng hơn.
+*   **Window Fix:** Cố định kích thước cửa sổ (800x700) và căn giữa màn hình khi khởi chạy, không cho phép thay đổi kích thước để đảm bảo bố cục luôn chuẩn.
+*   **Cải tiến Log:** Thêm các icon trạng thái (🔴, 🟠, ⚪) vào phần log giúp dễ dàng nhận biết lỗi và cảnh báo.
+*   **Dependency:** Yêu cầu cài đặt thêm thư viện `customtkinter`.
+
 ## Phiên bản 1.7.2 (23/01/2026 - Bản hoàn thiện UI)
 - **Tình năng mới**: Thêm chức năng MD5.
 
