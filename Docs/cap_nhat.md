@@ -1,5 +1,8 @@
 # Cập nhật mới của d2ttool
 
+## Phiên bản 1.7.2 (23/01/2026 - Bản hoàn thiện UI)
+- **Tình năng mới**: Thêm chức năng MD5.
+
 ## Phiên bản 1.6.0 (Mới nhất)
 *   **Tính năng mới: Chuyển đổi định dạng ảnh.** Thêm tùy chọn "Chuyển tất cả ảnh sang .jpg".
 *   **Tính năng mới: Thay đổi MD5 (Unique File).** Thêm tùy chọn chèn dữ liệu ẩn vào cuối file để thay đổi mã định danh MD5, giúp file trở thành "duy nhất" đối với các hệ thống quét. Chương trình thông minh tự động bỏ qua bước này đối với các file đã được convert JPG để tối ưu tốc độ.
